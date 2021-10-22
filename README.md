@@ -1,5 +1,6 @@
 # BuildWebApp-Johns-Hopkins-University
-Restaurant chino web page built with HTML5, CSS3, Bootstrap, DOM, Ajax, API REST HTTP, JQuery
+Restaurant chino web page built with HTML5, CSS3, Bootstrap, DOM, Ajax, API REST HTTP, JQuery. Course online University Johns Hopkins
+![JHU_logo_Johns_Hopkins-University](https://user-images.githubusercontent.com/48660555/138402817-29873151-bb78-4492-89cb-771075d6daf2.png)
 
 <!-- Image -->
 ## URL
